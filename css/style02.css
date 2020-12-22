@@ -411,7 +411,7 @@ footer {
     }
 
     .team {
-        min-height: 385px;
+        min-height: 380px;
     }
 
     .third-content {
@@ -428,7 +428,7 @@ footer {
 
 }
 
-@media screen and (max-width: 501px) {
+@media screen and (max-width: 550px) {
 
     .main-banner {
         height: 400px;
