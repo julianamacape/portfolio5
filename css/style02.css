@@ -411,7 +411,7 @@ footer {
     }
 
     .team {
-        min-height: 450px;
+        min-height: 385px;
     }
 
     .third-content {
@@ -497,7 +497,7 @@ footer {
     }
 
     .second {
-        height: 630px;
+        height: 560px;
     }
     
     .second-content {
@@ -541,7 +541,7 @@ footer {
 
     .fourth {
         width: 100%;
-        height: unset;
+        height: 210px;
         padding: 20px 20px;
     }
     
